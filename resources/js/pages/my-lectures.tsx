@@ -9,7 +9,7 @@ function MyLectures({ user }: { user: User }) {
     const breadcrumbs: BreadcrumbItem[] = [
         {
             title: user.name,
-            href: '/settings/profile',
+            href: '/configuracoes',
         },
         {
             title: 'Minhas Palestras',
