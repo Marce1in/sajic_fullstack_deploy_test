@@ -211,4 +211,22 @@ const timeLineMockData = [
         name: 'After das palestras: mesa redonda sobre memes e política',
         speaker: 'Mesa redonda com Gregório Duvivier, Pablo Marçal e um estagiário',
     },
+    {
+        day: '17/10',
+        time: '23:00',
+        name: 'After das palestras: mesa redonda sobre memes e política',
+        speaker: 'Mesa redonda com Gregório Duvivier, Pablo Marçal e um estagiário',
+    },
+    {
+        day: '18/10',
+        time: '23:00',
+        name: 'After das palestras: mesa redonda sobre memes e política',
+        speaker: 'Mesa redonda com Gregório Duvivier, Pablo Marçal e um estagiário',
+    },
+    {
+        day: '19/10',
+        time: '23:00',
+        name: 'After das palestras: mesa redonda sobre memes e política',
+        speaker: 'Mesa redonda com Gregório Duvivier, Pablo Marçal e um estagiário',
+    },
 ];
